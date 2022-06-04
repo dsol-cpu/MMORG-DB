@@ -1,2 +1,2 @@
 # MMORG-DB
-SQL Database and Interface for MMORPG Player 
+SQL Relational Database and Interface for MMORPG Player 
